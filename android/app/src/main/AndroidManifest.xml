@@ -42,4 +42,9 @@
             <data android:mimeType="text/plain"/>
         </intent>
     </queries>
+<!--google maps API key -->
+    <meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="AIzaSyCZVyzjoZTbgh71CJXVd21rXHj07shrI3s"/>
+
 </manifest>
